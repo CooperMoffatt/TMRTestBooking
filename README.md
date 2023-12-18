@@ -22,4 +22,4 @@ You need Python 3.x and the following Python libraries installed
 Clone the repository to your local machine
 
 ```bash
-git clone https://github.com/coopermoffatt/TMRTestBooking.git
+git clone https://github.com/CooperMoffatt/TMRTestBooking
